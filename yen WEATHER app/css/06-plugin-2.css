@@ -1,7 +1,0 @@
-section{
-    height: 100dvh;
-    background-color: #ffb0b0;
-    &:not(:first-child){
-        background-color: #c6e3ff;
-    }
-}
